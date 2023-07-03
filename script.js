@@ -11,3 +11,9 @@ document.querySelectorAll('.nav-link').forEach((n) => n
     hamburger.classList.remove('active');
     hamburger.classList.remove('active');
   }));
+
+
+
+
+
+  
