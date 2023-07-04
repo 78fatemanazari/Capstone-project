@@ -76,13 +76,13 @@ a {
 }
 
 .hero{
-    background-image: url();
-    background-repeat: no-repeat;
-    background-position: center;
-    background-size: cover;
-    height: 100vh;
-    padding-top: 20%;
-    text-align: center;
+  background-image: url();
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100vh;
+  padding-top: 20%;
+  text-align: center;
 }
 
 .quote{
