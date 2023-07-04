@@ -290,13 +290,14 @@ hr{
 .footer{
   display: flex;
   align-items: center;
+  gap: 20px;
   margin-left: 5px;
   padding: 5%;
 }
 
 .footer img{
-  width: 150px;
-  height: 100px;
+  width: 223px;
+  height: 40px;
 }
 
 .footer-description{
@@ -311,6 +312,10 @@ hr{
 }
 
 .main-para{
+  display: none;
+}
+
+.link{
   display: none;
 }
 
@@ -509,6 +514,7 @@ hr{
     width: 400px;
     height: 200px;
     border: 1px solid var(--nav-item-color);
+    padding: 2%;
   }
   
   .hr{
