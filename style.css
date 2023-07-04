@@ -164,10 +164,12 @@ hr{
 
 .program-cards{
   display: grid;
+  grid-template-columns: repeat(12, 1fr);
   gap: 10px;
 }
 
 .cards{
+  grid-column: span 12;
   display: flex;
   justify-content: space-evenly;
   gap: 15px;
@@ -193,6 +195,7 @@ hr{
   line-height: 25px;
   letter-spacing: -0.01em;
   text-align: left;
+  width: 1rem;
 }
 
 .cards p{
@@ -203,10 +206,12 @@ hr{
   line-height: 22px;
   letter-spacing: 0.06em;
   text-align: left;
+  margin-left: 60px;
 }
 
 .button{
   margin: 30px auto;
+  grid-column: span 12;
 }
 
 .button button{
