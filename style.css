@@ -213,7 +213,7 @@ a {
     color: var(--secondary-color);
     margin-bottom: 10px;
   }
-  
+
   .first-heading {
     font-family: var(--font-cocogoose);
     font-size: 1.8rem;
@@ -224,7 +224,7 @@ a {
     font-weight: 900;
     text-transform: uppercase;
   }
-  
+
   .first-para {
     margin-top: 25px;
     margin-right: 15px;
@@ -232,7 +232,7 @@ a {
     border: 2px solid #fff;
     padding: 10px;
   }
-  
+
   .first-para p {
     font-family: var(--main-font);
     font-size: 12px;
@@ -241,7 +241,7 @@ a {
     letter-spacing: -0.01em;
     color: var(--nav-item-color);
   }
-  
+
   .second-heading {
     font-family: var(--font-cocogoose);
     font-size: 20px;
@@ -249,7 +249,7 @@ a {
     letter-spacing: 0.0001rem;
     color: var(--para-two-color);
   }
-  
+
   .second-para {
     font-family: var(--font-cocogoose);
     font-size: 18px;

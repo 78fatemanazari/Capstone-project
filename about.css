@@ -158,7 +158,6 @@ a {
   text-align: center;
   padding-top: 20px;
   line-height: 2rem;
-  text-justify: center;
 }
 
 hr {
@@ -486,7 +485,6 @@ hr {
     color: #2c2c2c;
     text-align: center;
     line-height: 40px;
-    text-justify: center;
     margin: 40px 35% 0 35%;
   }
 
