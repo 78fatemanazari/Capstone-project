@@ -470,8 +470,7 @@ a {
 
   .first-heading {
     font-family: var(--main-font);
-    font-size: 4.5rem;
-    max-width: 63%;
+    font-size: 3.5rem;
     color: transparent;
     background-image: url(./images/download.png);
     background-size: cover;
