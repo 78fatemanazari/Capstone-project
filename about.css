@@ -402,6 +402,33 @@ hr {
 }
 
 @media screen and (min-width: 768px) {
+  .dark-nav {
+    background-color: #3e3e3e;
+  }
+
+  .dark-nav ul {
+    margin-right: 13%;
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+    gap: 20px;
+    padding: 5px;
+  }
+
+  .second-para a {
+    color: var(--nav-item-color);
+    text-decoration: underline;
+  }
+
+  .dark-nav ul li a {
+    font-family: var(--main-font);
+    font-size: 14px;
+    font-weight: 400;
+    line-height: 14px;
+    letter-spacing: 0;
+    color: #fff;
+  }
+
   .quote {
     display: none;
   }
@@ -464,11 +491,6 @@ hr {
     font-weight: 400;
     letter-spacing: 0.0001rem;
     margin-top: 5px;
-  }
-
-  .second-para a {
-    color: var(--nav-item-color);
-    text-decoration: underline;
   }
 
   .main-program {
