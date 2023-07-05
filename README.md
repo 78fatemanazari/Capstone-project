@@ -25,7 +25,12 @@
 
 # 📖 Portfolio <a name="about-project"></a>
 
-**Capstone**  is a project to showcase all of my recent projects. It maitains the information about my projects, the gallant informatin about me, and the link to my resume.
+**DesignX Company - Web Design Conference Page**  
+is a conference web page project and the content of a web design conference can vary depending on the specific event, but generally, it includes a range of topics related to web design, development, user experience, and digital marketing.
+
+Web designing is the process of planning, conceptualizing, and implementing the plan for designing a website in a way that is functional and offers a good user experience. User experience is central to the web designing process. Websites have an array of elements presented in ways that make them easy to navigate.
+
+The main products of DesignX company include website design and development services, website maintenance and updates, responsive and mobile-friendly design, e-commerce solutions, content management systems (CMS), search engine optimization (SEO), and graphic design. We also offer additional services such as logo design, branding, social media integration, and digital marketing.
 
 ## 🛠 Built With <a name="built-with"></a>
 
@@ -34,21 +39,20 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>HTML</li>
-    <li>CSS</li>
-    <li>JavaScript</li>
+    <li><a href="https://www.theodinproject.com/paths/foundations/courses/foundations">HTML</a></li>
+    <li><a href="https://www.theodinproject.com/paths/foundations/courses/foundations">CSS</a></li>
+    <li><a href="https://www.theodinproject.com/paths/foundations/courses/foundations">JavaScript</a></li>
+    <li><a href="https://www.behance.net/gallery/29845175/CC-Global-Summit-2015">Behance</a></li>
   </ul>
 </details>
 
 ### Key Features <a name="key-features"></a>
 
-- **Header Section**
-- **Headline Section**
-- **Collaboration Button**
-- **Works Section**
-- **About Me Section**
-- **Contact Form**
-- **Footer Section**
+- **Full Responsive Design**
+- **Unique colors and fonts**
+- **Related Images and Background Images**
+- **Great Creating Featured Section Dynamically**
+- **Build as much as similar to Behance Design**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
