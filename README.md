@@ -59,7 +59,7 @@ The main products of DesignX company include website design and development serv
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Here is the link to the live experience](https://78fatemanazari.github.io/Portfolio/).
+- [Here is the link to the live experience](https://78fatemanazari.github.io/Capstone-project/).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -113,6 +113,10 @@ npx hint .
 ```
 npx stylelint "**/*.{css,scss}"
 ```
+- Track JavaScript linter errors run:
+```
+npx eslint .
+```
 
 ### Deployment <a name="deployment"></a>
 
@@ -133,7 +137,9 @@ You can deploy this project using:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **Finish Mobile Version Portfolio**
+- [ ] **Build a page for sponsors**
+- [ ] **Build a page for programs**
+- [ ] **Build a page for designers**
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -153,22 +159,11 @@ Give a ⭐️ if you like this project!!
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Thanks to my learning partners.
 - Thanks to the Microverse team for the great curriculum.
 - Thanks to the Code Reviewer(s) for the insightful feedbacks.
+- I would like thank to [Cindy Shin in Behance](https://www.behance.net/adagio07) to let us using her design.
+  Thank you so much!
 
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-## ❓ FAQ <a name="faq"></a>
-
-- **[Question_1]**
-
-  - [Answer_1]
-
-- **[Question_2]**
-
-  - [Answer_2]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
