@@ -481,6 +481,8 @@ a {
 
   .first-para {
     margin-right: 50%;
+    margin-bottom: 20px;
+    margin-top: 20px;
     border: 2px solid #fff;
     padding: 2%;
   }
